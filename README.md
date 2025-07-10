@@ -1,5 +1,3 @@
----
-
 ### Faisal Mujtaba Saleem
 **Aspiring Full Stack Web Developer**  
 📍 **Karachi, Pakistan**  
@@ -84,5 +82,3 @@ Pixel-perfect **HTML/CSS clone** of FlyDubai's professional website.
 - 🔥 Quick Learner: *Ability to adapt rapidly to dynamic challenges.*  
 - 🤝 Highly Motivated: *Driven to excel in versatile and fast-paced environments.*  
 - 📁 Versatile Skills: *Expertise in Full Stack technologies, matched by creative problem-solving.*
-  
----
